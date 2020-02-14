@@ -164,7 +164,7 @@ padding:0px 0px  0px 20px ;
 
 a {
 
-    padding:70px 35px 0px 35px ;
+   padding:0px 32px ;
     text-decoration: none;
     color: black;
     
@@ -216,9 +216,7 @@ background-color: indigo;
 background-color: dodgerblue;
 }
 
-nav {
-    padding: 0px 40px 0px 40px;
-}
+
 
 .grid {
     display: flex;
