@@ -235,19 +235,24 @@ padding: 10px;
 }
 
 p {
-    padding: 10px 0px 10px 0px;
+    padding: 10px 0px 20px 0px;
+    font-size: 20px;
 }
 
 h2 {
 padding: 10px 0px 10px 0px;
+font-weight: bold;
 
 }
 
 hr{
-
     border-top: 1px dashed black;
+    
 }
 
 button {
     padding:5px 50px 5px 50px ;
+    border-radius: 8px;
+    border: 2px solid black;
+    font-weight: bold;
 }
