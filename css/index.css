@@ -144,3 +144,110 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.navContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding:10px 250px 50px 250px ;
+    
+}
+
+.nav-logo {
+padding:0px 0px  0px 20px ;
+}
+
+.navList {
+    padding:10px 0px 0px 0px ;
+}
+
+a {
+
+    padding:70px 35px 0px 35px ;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.jumbo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jumbo-pic{
+    padding:0px 0px 20px 0px ;
+}
+
+.container about-page {
+    display: flex;
+    align-items: center;
+}
+
+#box1 {
+    background-color: teal;
+}
+#box2 {
+background-color: gold;
+}
+#box3 {
+background-color: cadetblue;
+}
+#box4 {
+background-color: coral;
+}
+#box5{
+background-color: crimson;
+}
+#box6{
+background-color: forestgreen;
+}
+#box7{
+background-color: darkorchid;
+}
+#box8{
+background-color: hotpink;
+}
+#box9{
+background-color: indigo;
+}
+#box10{
+background-color: dodgerblue;
+}
+
+nav {
+    padding: 0px 40px 0px 40px;
+}
+
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.mingrid {
+width: 45%;
+padding: 10px;
+}
+
+p {
+    padding: 10px 0px 10px 0px;
+}
+
+h2 {
+padding: 10px 0px 10px 0px;
+
+}
+
+hr{
+
+    border-top: 1px dashed black;
+}
+
+button {
+    padding:5px 50px 5px 50px ;
+}
